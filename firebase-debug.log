@@ -1,0 +1,28 @@
+[debug] [2025-03-09T11:36:31.871Z] ----------------------------------------------------------------------
+[debug] [2025-03-09T11:36:31.874Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Predator\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init hosting
+[debug] [2025-03-09T11:36:31.874Z] CLI Version:   13.33.0
+[debug] [2025-03-09T11:36:31.874Z] Platform:      win32
+[debug] [2025-03-09T11:36:31.874Z] Node Version:  v22.14.0
+[debug] [2025-03-09T11:36:31.874Z] Time:          Sun Mar 09 2025 16:36:31 GMT+0500 (Uzbekistan Standard Time)
+[debug] [2025-03-09T11:36:31.874Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-03-09T11:36:31.879Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-03-09T11:36:31.879Z] > authorizing via signed-in user (johonturaeff@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Predator\Desktop\React\europegas-store
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
